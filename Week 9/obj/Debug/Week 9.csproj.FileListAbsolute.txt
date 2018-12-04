@@ -1,0 +1,10 @@
+C:\Users\Olga\source\repos\Week 9\Week 9\bin\Debug\Week 9.exe.config
+C:\Users\Olga\source\repos\Week 9\Week 9\bin\Debug\Week 9.exe
+C:\Users\Olga\source\repos\Week 9\Week 9\bin\Debug\Week 9.pdb
+C:\Users\Olga\source\repos\Week 9\Week 9\bin\Debug\System.ValueTuple.dll
+C:\Users\Olga\source\repos\Week 9\Week 9\bin\Debug\System.ValueTuple.xml
+C:\Users\Olga\source\repos\Week 9\Week 9\obj\Debug\Week 9.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\Week 9\Week 9\obj\Debug\Week 9.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\Week 9\Week 9\obj\Debug\Week 9.csproj.CopyComplete
+C:\Users\Olga\source\repos\Week 9\Week 9\obj\Debug\Week 9.exe
+C:\Users\Olga\source\repos\Week 9\Week 9\obj\Debug\Week 9.pdb
