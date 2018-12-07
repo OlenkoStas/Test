@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Week_9
 {/// <summary>
@@ -29,12 +26,17 @@ namespace Week_9
         /// <summary>
         /// Сравнивает два объекта типа Car
         /// </summary>
-        /// <param name="o"></param>
-        /// <returns></returns>
-        public int CompareTo(Car o)
+        /// <param name="o">Объект для сравнения с данным экземпляром</param>
+        /// <returns>
+        /// Значение, указывающее, каков относительный порядок сравниваемых объектов.Возвращаемые
+        /// значения представляют следующие результаты сравнения.Значение Значение Меньше
+        /// нуля Данный экземпляр предшествует параметру other в порядке сортировки. Нуль
+        /// Данный экземпляр занимает ту же позицию в порядке сортировки, что и параметр
+        /// other. Больше нуля Данный экземпляр следует за параметром other в порядке сортировки.</returns>
+        public int CompareTo(Car other)
         {
-            if (Price > o.Price) return 1;
-            if (Price < o.Price) return -1;
+            if (Price > other.Price) return 1;
+            if (Price < other.Price) return -1;
             return 0;
         }
         /// <summary>

@@ -33,7 +33,7 @@ namespace Week_9
         /// <summary>
         /// Показывает содержимое всей коллекции
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Строка представляющая текущий объект</returns>
         public override string ToString()
         {
             foreach (var car in _listCars)
